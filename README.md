@@ -12,7 +12,7 @@ We leveraged NYC Citi bike-sharing program data for August 2019 and noted the fo
 <img src = "Resources/August Peak Hours.png">
 
 *	The primary user of bike-sharing program are men – 65% from total population.
-<img src = "Resources/ Gender Breakdown.png">
+<img src = "Resources/Gender Breakdown.png">
 
 *	The users mostly bike for less than an hour as is shown in the two graphs below
 <img src = "Resources/Checkout Times for Users.png">
